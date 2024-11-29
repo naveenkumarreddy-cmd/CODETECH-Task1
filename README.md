@@ -5,9 +5,13 @@ Project Overview
 This project is a functional, user-friendly To-Do List web application developed as part of a web development internship at CodeTech IT Solutions. It allows users to manage their daily tasks efficiently by offering functionalities like task addition, completion, and deletion. The tasks persist even after the browser is closed, thanks to local storage, and the application is designed to be visually appealing and responsive across various devices.
 
 Intern: Chintha Venkata Naveen Kumar Reddy  
+
    Company: CodeTech IT Solutions
+   
   Internship ID: CT12DS2621
+  
   Domain: Web Development
+  
   Duration:  September 2024 -November 2024
 
 Objectives
