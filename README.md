@@ -51,3 +51,4 @@ Used for visual elements like checkmarks for completed tasks or empty state imag
 Summary
 
 This project is a fully functional, user-friendly To-Do List web application built using core web technologies. It offers basic task management functionalities like adding, deleting, and filtering tasks, with a focus on an attractive and responsive design. The use of local storage ensures that user data is preserved across browser sessions, enhancing the utility of the application.
+![todolist](https://github.com/user-attachments/assets/446d64b9-5ce3-425a-8ecb-7510d88c18d0)
